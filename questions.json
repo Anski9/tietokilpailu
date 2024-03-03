@@ -1,0 +1,20 @@
+[
+    {
+        "question": "Mikä seuraavista bakteereista on yleisin syy elintarvikemyrkytyksiin?",
+        "choices": ["Salmonella", "E.coli", "Listeria"],
+        "answer": "Salmonella",
+        "points": 1
+    },
+    {
+        "question": "Mikä alkuaine on järjestysluvultaan 16 ja sen kemiallinen merkki on S?",
+        "choices": ["Strontium", "Rikki", "Sinkki"],
+        "answer": "Rikki",
+        "points": 1
+    },
+    {
+        "question": "Mikä seuraavista EI OLE tärkeä indikaattori analysoitaessa jätevettä?",
+        "choices": ["Biokemiallinen hapenkulutus (BHK)", "Kokonaisfosforipitoisuus", "Ilman kosteus", "Sähkönjohtavuus"],
+        "answer": "Ilman kosteus",
+        "points": 1
+    }
+]
